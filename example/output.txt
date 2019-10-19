@@ -1,0 +1,2 @@
+Simple score: 0.7656642796249631
+Optimized score: 0.7854796107262594
